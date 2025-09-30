@@ -1,6 +1,6 @@
 @font-face {
     font-family: racing;
-    src: url(/Sprintura\ Demo.otf);
+    src: url(Sprintura\ Demo.otf) , format('opentype');
 }
 
 * {
